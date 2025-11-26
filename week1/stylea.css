@@ -1,0 +1,26 @@
+.head {
+   margin: 2%
+}
+
+.h1 {
+   background: rgba(104, 104, 118, 0.079);
+   width: 100%;
+}
+
+.b {
+   background: rgb(128, 180, 128);
+   width: 40%;
+   float: left;
+}
+
+.c {
+   background: rgb(7, 118, 7);
+   width: 40%;
+   float: left;
+}
+
+.f {
+   background: rgb(128, 180, 128);
+   width: 100%;
+   clear: both;
+}

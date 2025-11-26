@@ -1,0 +1,21 @@
+
+header div:first-child{padding: 4%; background: rgba(157, 157, 166, 0.149);width: 35%;float:left}
+header div:nth-child(2){padding: 4%; background: rgb(128, 180, 128); width: 35%; float: right}
+
+
+
+
+
+nav ul:first-child{padding: 2%; background: rgba(113, 113, 122, 0.149);width: 100%;margin-left: 20px;float:left}
+ul li:first-child{padding: 20px; background: rgba(146, 6, 177, 0.149);width: 5%;margin-left: 20px;float:left;}
+ul li:nth-child(2){padding: 20px; background: rgba(186, 215, 17, 0.149);width:margin-left: 20px;float:left;}
+ul li:nth-child(3){padding: 20px; background: rgba(113, 113, 122, 0.149);width: 5%;float:left}
+ul li:nth-child(4){padding: 20px; background: rgba(168, 17, 161, 0.149);width: 5%;float:left}
+
+ 
+
+
+section div:first-child{padding: 4%; background: rgb(128, 180, 128); width: 40%; float: left}
+section div:nth-child(2){padding: 4%; background: rgb(7, 118, 7); width: 40%; float: left}
+
+footer{background: rgb(128, 180, 128); float: left; width: 100%;}

@@ -1,0 +1,30 @@
+.head{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background: #22f;
+    padding: 7%;
+
+}
+.menu1{ 
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background: rgb(10, 197, 125);
+    padding: 3%;
+    margin: 4px;
+
+}
+.menu{
+    padding: 10px 60px;
+    background: #1d7ce8;
+    
+}
+.m1{
+    padding: 20px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    background: rgb(10, 197, 125);
+    margin: 4px;
+}

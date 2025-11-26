@@ -1,0 +1,45 @@
+.head {
+   margin: 2%
+}
+
+.h1 {
+   background: rgba(104, 104, 118, 0.079);
+   width: 100%;
+   height: 70px;
+   margin: 5px;
+   text-align: center;
+   align-content: center;
+}
+
+.b {
+   background: rgb(128, 180, 128);
+   height: 200px;
+   margin: 5px  5px 5px;
+   width: 18%;
+   float: left;
+   text-align: center;
+   align-content: center;
+   
+}
+
+.c {
+   background: rgb(70, 74, 70);
+   height: 200px;
+   margin: 5px 0px 5px 8px;
+   width: 80%;
+   float: left;
+   text-align: center;
+   align-content: center;
+ 
+   
+}
+
+.f {
+   background: rgb(63, 233, 63);
+   width: 100%;
+   height: 60px;
+   margin: 5px;
+    text-align: center;
+   align-content: center;
+   clear: both;
+}
