@@ -1,0 +1,105 @@
+.head {
+   margin: 2%  
+}
+.h1 ul li{
+    list-style: none;
+    
+}
+
+.h1 ul{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
+    border: 2px solid black;
+}
+
+.h1 {
+   background: rgba(104, 104, 118, 0.079);
+   width: 100%;
+   height: 70px;
+   margin: 5px;
+   text-align: center;
+   align-content: center;
+}
+.sec{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 100%;
+    gap: 10px;
+
+}
+.b {
+   background: rgb(128, 180, 128);
+   height: 400px;
+    width: 100%;
+   
+   text-align: center;
+   align-content: center;
+}
+
+.c {
+   order: 0;
+   background: rgb(70, 74, 70);
+   height: 400px;
+   width: 100%;
+   
+   clear: left;
+   text-align: center;
+   align-content: center;
+   
+}
+
+.d {
+   order: 0;
+   background: rgb(56, 156, 218);
+   height: 400px;
+    width: 100%;
+   clear: left;
+   text-align: center;
+   align-content: center;
+   
+}
+
+
+.f {
+   background: rgb(63, 233, 63);
+   width: 100%;
+   height: 60px;
+   margin: 5px;
+    text-align: center;
+   align-content: center;
+   clear: both;
+}
+
+/* /*** page ÷ */
+
+.pop button{
+    padding: 10px 20px;
+    width: 100%;
+
+}
+
+.text p{
+    text-align: center;
+
+}
+.text {
+    border: 2px solid black;
+    padding: 4px;
+    height: 400px;
+    
+
+}
+
+
+/* page 3 */
+.pic{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+a{
+    text-decoration: none;
+}
